@@ -1,0 +1,10 @@
+{
+  "name": "Strength Flow",
+  "short_name": "StrengthFlow",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#09111b",
+  "theme_color": "#0f172a",
+  "description": "Phone-first workout planner for back and abs training.",
+  "icons": []
+}
